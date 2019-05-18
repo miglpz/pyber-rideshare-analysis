@@ -1,0 +1,8 @@
+Observable trends: 
+
+• As expected, the highest presence for Pyber is in rural areas, followed by suburban. 
+• Regardless of rural areas having the highest average of fares, the highest revenue of total fares comes from urban areas. 
+• Rural has the least number of rides on average, however, the average fare for these rides is higher than in urban and suburban, most likely due to the distance from main city attractions. 
+• The majority of rides are in urban areas, however, the average fare cost is the lowest. Most likely due to the proximity of main city attractions. 
+• The number of drivers in urban areas correlates with the number of rides and revenue expected by area. Because of this, there are more drivers in urban areas, and the least amount of drivers are in rural areas. 
+• Suburban areas have both a high number of rides per city and a high average fare amount. We can recommend to increase incentives, or marketing outreach to increase the amount of drivers in suburban areas to keep up with the demand and increase revenue in these areas. 
